@@ -1,1 +1,2 @@
 # odin-recipes
+This project allowed me to implement all that I've learned from the HTML Foundations section of The Odin Project such as the HTML Boilerplate, list, anchor, and image elements, as well as practice writing Git commit messages following the seven rules of a Great commit message.
