@@ -1,11 +1,15 @@
-* {
-  text-align: center;
+body {
+  font-family: Roboto, sans-serif;
+  background-color: rgb(255, 240, 224);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
-.display-inline-block {
-  display: inline-block;
+.headings {
+  color: rgb(128, 64, 0);
 }
 
-.left-align {
-  text-align: left;
+.sinigang-description {
+  width: 500px;
 }
