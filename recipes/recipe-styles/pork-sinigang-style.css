@@ -13,3 +13,18 @@ body {
 .sinigang-description {
   width: 500px;
 }
+
+.homepage-link {
+  font-size: 22px;
+  font-weight: bold;
+  color: rgb(128, 64, 0);
+  text-decoration: underline;
+}
+
+.homepage-link:hover {
+  opacity: 0.7;
+}
+
+.homepage-link:active {
+  opacity: 0.4;
+}
